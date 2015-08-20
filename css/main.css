@@ -1,0 +1,13 @@
+.share-display-img {
+    display: none;
+}
+.upload-file-input {
+    display: none;
+}
+.upload-btn {
+    display: block;
+    width: 100px;
+    height: 40px;
+    background: #000;
+    color: #fff;
+}
